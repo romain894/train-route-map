@@ -2,3 +2,5 @@ plotly
 pandas
 kaleido
 geopy
+ipywidgets
+tqdm
